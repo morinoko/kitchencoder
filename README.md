@@ -1,1 +1,1 @@
-A play repo to experiment with
+An experimental repo to play around with!
